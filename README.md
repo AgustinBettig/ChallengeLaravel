@@ -79,7 +79,7 @@ Ejecutar `php artisan serve` e iniciar sesion con el usuario pre cargado en la d
 Configurar el idioma de preferencia en la esquina superior derecha. En el caso de querer suministrar mas idiomas al crud, visitar el repositorio [laravel lang](https://github.com/Laravel-Lang/lang) creado por la comunidad Laravel y seguir los pasos para instalar el idioma deseado. 
 
 En la view voucher se encuentra un modelo provisorio de los campos y filtros para nuestro crud. 
-Los cdn de jQuery y Bootstrap ya se encuentran precargados, listos para su libre edición fontend.
+Los cdn de jQuery y Bootstrap ya se encuentran precargados, listos para su libre edición frontend.
 
 
 
